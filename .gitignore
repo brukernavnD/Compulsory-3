@@ -37,3 +37,20 @@ Compulsory 3/_ReSharper.Caches/ReSharperPlatformVs17232_30d4468f.Compulsory 3.00
 Compulsory 3/_ReSharper.Caches/ReSharperPlatformVs17232_30d4468f.Compulsory 3.00/CppSourceFileToAllSymbolTables/.crc
 Compulsory 3/_ReSharper.Caches/ReSharperPlatformVs17232_30d4468f.Compulsory 3.00/CppSourceFileToAllSymbolTables/.version
 Compulsory 3/_ReSharper.Caches/ReSharperPlatformVs17232_30d4468f.Compulsory 3.00/CppSourceFileToAllSymbolTables/7/5276969f.dat
+*.dat
+*.old
+*.log
+*.ldb
+*.ipch
+*.vsidx
+Compulsory 3/_ReSharper.Caches/ReSharperPlatformVs17232_30d4468f.Compulsory 3.00/DPA.00/Db/MANIFEST-000004
+Compulsory 3/_ReSharper.Caches/ReSharperPlatformVs17232_30d4468f.Compulsory 3.00/Db/MANIFEST-000004
+Compulsory 3/.vs/Compulsory 3/v17/.suo
+*.exe
+*.recipe
+*.ilk
+*.obj
+*.idb
+*.txt
+*.tlog
+*.pdb
