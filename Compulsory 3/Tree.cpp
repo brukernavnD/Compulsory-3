@@ -53,6 +53,10 @@ std::vector<TreeNode*> Tree::GetChildren(TreeNode* InNode)
 	return InNode->Children;
 }
 
+/// <summary>
+/// gets the size of the tree
+/// </summary>
+/// <returns></returns>
 int Tree::GetSize() const
 {
 	//the size of the tree
@@ -78,7 +82,6 @@ int Tree::GetSize() const
 	//return the size
 	return Size;
 }
-
 
 /// <summary>
 /// gets the depth of the node
@@ -215,6 +218,12 @@ void Tree::DeleteNode(TreeNode* InNode)
 	}
 }
 
+/// <summary>
+/// gets the nodes in the tree using breadth first search
+/// </summary>
+/// <param name="Start"></param>
+/// <param name="End"></param>
+/// <returns></returns>
 std::vector<TreeNode*> Tree::BreadthFirstSearch(TreeNode* Start, const TreeNode* End)
 {
 	//create a queue for nodes to visit

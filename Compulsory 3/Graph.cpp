@@ -42,7 +42,6 @@ std::vector<GraphEdge*> Graph::GetNodeConnections(const GraphNode* InNode) const
 	return Connections;
 }
 
-
 /// <summary>
 /// gets the size of the graph
 /// </summary>
